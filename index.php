@@ -16,11 +16,11 @@
             <h1 class="form-heading">Đăng Nhập</h1>
             <div class="form-group">
                 <i class="far fa-user"></i>
-                <input type="text" class="form-input" placeholder="Tên đăng nhập">
+                <input type="text" name="ussername" class="form-input" placeholder="Tên đăng nhập">
             </div>
             <div class="form-group">
                 <i class="far fa-key"></i>
-                <input type="password" class="form-input" placeholder="Mật khẩu">
+                <input type="password" name="password" class="form-input" placeholder="Mật khẩu">
                 <div id="eye">
                 <i class="far fa-eye"></i>
                 </div>
